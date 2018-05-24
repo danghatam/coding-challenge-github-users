@@ -26,6 +26,9 @@ export const handleClear = () => {
   };
 };
 
+////////////////////////////////////////////////////////////////////////
+// CAN USE THE BELOW CODE IF YOU WANT TO DISPATCH ONLY ONE FOR ALL USERS
+//
 // export const searchUsers = searchStr => {
 //   return async (dispatch, getState) => {
 //     const searchArr = searchStr.split(',');
